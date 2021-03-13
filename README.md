@@ -1,9 +1,13 @@
-# Progetto
-Ingegnerizzazione dei requisiti e sviluppo dell'applicativo, consegna HomeWork1.
+# requirements_analysis
+A basic example of a requirements analysis for a simple software application. The project was a homework for a Software Engineering course that I attended during my BSc second year. The project documents, as well as the software documentation, is in Italian.
 
-## Struttura cartella consegna
+## Project goal and organization 
+The goal of the project was to draw up a requirements document for our customers (two other students that attended the course). The lecturer gave us an incomplete draft of the software requirements and we had to interview our customers in order to get the missing information needed to develop the application. Moreover, we had to solve conflicts between the clients (the interviews were carried out separately). Lastly, we had to develop the software application.   
+
+## File structure
 ```
-progetto
+project
+├── homework1.pdf                    # documento contenente la consegna
 ├── documentoRequisiti.pdf           # documento di specifica dei requisiti finale
 ├── procedimento.pdf                 # documento che riporta il procedimento seguito nella stesura del documento dei requisiti
 ├── architettura.pdf                 # documento che riporta un diagramma UML del progetto software
@@ -21,3 +25,5 @@ progetto
         ├── Orco.java
         └── Pedina.java
 ```
+## Course link
+Link to the software engineering course [here](https://en.didattica.unipd.it/off/2018/LT/IN/IN0508/000ZZ/INP8084339/N0).
